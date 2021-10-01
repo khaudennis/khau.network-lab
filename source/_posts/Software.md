@@ -30,6 +30,7 @@ tags: software
 | Microsoft DNS | Local Domain Name Servers |
 | Microsoft Hyper-V | Baremetal Hypervisor |
 | Microsoft IIS | Windows Web Server |
+| [Nextcloud](https://nextcloud.com/) | Productivity & File Management Suite |
 | [Pi-hole](https://pi-hole.net) | Ad-blocking |
 | [Portainer](https://www.portainer.io) | Docker Management |
 | [Rancher](https://rancher.com) | Kubernetes Management |
