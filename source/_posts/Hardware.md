@@ -18,15 +18,11 @@ tags: hardware, enterprise servers, networking
 | Manufacturer | Model - Description |
 | ------------ | ------------ |
 | RPi Foundation | Raspberry Pi 4 2GB (as a primary Pi-hole) |
-| RPi Foundation | Raspberry Pi 4 2GB (as a secondary Pi-hole) |
 | Ubiquiti | USG-3P - UniFi Security Gateway |
-| Ruckus | H510 - In Wall Access Point |
-| Ruckus | H510 - In Wall Access Point |
-| Ruckus | R610 - Access Point |
-| Ruckus | R610 - Access Point |
+| Ruckus | 2x H510 - In Wall Access Point |
+| Ruckus | 2x R610 - Access Point |
 | TP-LINK | TL-T1600G-28TS - JetStream 24-Port Managed Gigabit Switch |
-| TP-LINK | TL-SG3424P - JetStream 24-Port Managed PoE Gigabit Switch |
-| TP-LINK | TL-SG3424P - JetStream 24-Port Managed PoE Gigabit Switch |
+| TP-LINK | 2x TL-SG3424P - JetStream 24-Port Managed PoE Gigabit Switch |
 
 ## Networking - Secondary Site
 | Manufacturer | Model - Description |
@@ -34,8 +30,8 @@ tags: hardware, enterprise servers, networking
 | RPi Foundation | Raspberry Pi 4 2GB (as a edge device) |
 | ZYXEL | ES-2024PWR - 24-Port Managed PoE Switch |
 
-## R7910 (Host Name: KLSESXI01)
-- Operating System:  VMware vSphere 7
+## R7910 (Host Name: KLSVIRT01)
+- Operating System:  Proxmox Virtual Environment 7
 - Status: Operational, Hypervisor with GPU Provisioning Capabilities
 - Procured: 2019
 - Network: 1x1GB Ethernet (IPMI), 4x1GB Ethernet (General Network Connectivity), 2x10GB SFP+ (Fiber Connectivity)  
